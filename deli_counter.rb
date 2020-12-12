@@ -8,8 +8,7 @@ def line(katz_deli)
 end
 
 def take_a_number(katz_deli, new_customer)
-  new_customer << katz_deli
-  puts katz_deli.join("Welcome, #{new_customer}. You are number #{katz_deli.length + 1}")
+  
 end
 
 def now_serving(katz_deli)

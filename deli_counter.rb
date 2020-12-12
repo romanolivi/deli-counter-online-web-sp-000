@@ -9,8 +9,7 @@ end
 
 def take_a_number(katz_deli, new_customer)
   new_customer << katz_deli
-  puts "Welcome, #{new_customer}. You are number #{katz_deli.length +1}"
-  
+  puts katz_deli.join("Welcome, ")
 end
 
 def now_serving(katz_deli)

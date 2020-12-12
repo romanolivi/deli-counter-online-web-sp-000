@@ -8,7 +8,7 @@ def line(katz_deli)
 end
 
 def take_a_number(katz_deli, new_customer)
-  puts "Welcome, #{new_customer}. You are number #{katz_deli.length +1}"
+  new_line = []
   
   
 end

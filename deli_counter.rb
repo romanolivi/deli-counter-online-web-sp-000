@@ -1,1 +1,19 @@
-# Write your code here.
+katz_deli = []
+
+def line(katz_deli)
+  if katz_deli.size == 0 
+    puts "The line is currently empty."
+  end
+  katz_deli.e
+end
+
+def take_a_number(katz_deli, new_customer)
+  puts "Welcome, #{new_customer}. You are number #{katz_deli.length +1}"
+  
+  
+end
+
+def now_serving(katz_deli)
+  
+end
+
